@@ -8,10 +8,10 @@ The two ports this project readds are exposed through two 3.5mm TRRS jacks comin
 
 Pinout is similar to those used by Madmorda or her [GameCube Classic](https://www.youtube.com/watch?v=_BxwS_uTKt4) and Wesk and CrazyGadget on the [GC Nano](https://bitbuilt.net/forums/index.php?threads/gc-nano-the-worlds-smallest-gamecube.5697/):
 
-Pole | Tip | Ring1 | Ring2 | Sleeve
-__________________________________
-Use  | 5v rumble | 3.3v | Data | GND
-Color | white | green | red | blue
+| Pole | Tip | Ring1 | Ring2 | Sleeve |
+| ---- | --- | ----- | ----- | ------ |
+| Use  | 5v Rumble | 3.3v | Data | GND |
+| Color (inside gcc cable) | White | Green | Red | Blue |
 
 ## Project contents
 
