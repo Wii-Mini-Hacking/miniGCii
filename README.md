@@ -17,3 +17,7 @@ Color | white | green | red | blue
 
 This project consists of all the design files for the trrs jack PCB under [PCB](/PCB)
 3D models for mounts will be added later
+
+## LICENSE
+
+This project is licensed under the TAPR Open Hardware License, which can be read [here](LICENSE.txt)
