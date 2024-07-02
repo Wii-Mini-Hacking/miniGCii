@@ -1871,6 +1871,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "5V\n3V3\nDAT2\nDAT1\nGND"
+		(at 154.75 108.5 90)
+		(layer "F.SilkS")
+		(uuid "02495f8d-01bd-433c-b129-138886c927a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify right)
+		)
+	)
 	(segment
 		(start 151.065686 109)
 		(end 148.415686 111.65)
